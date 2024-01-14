@@ -1,2 +1,2 @@
 # Itinerate
-The Yelp for Travel Itineraries!
+The AI Assisted Yelp for Travel Itineraries!
